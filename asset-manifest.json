@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/org.listz/static/css/main.5f361e03.chunk.css",
+    "main.js": "/org.listz/static/js/main.78a34d07.chunk.js",
+    "main.js.map": "/org.listz/static/js/main.78a34d07.chunk.js.map",
+    "runtime-main.js": "/org.listz/static/js/runtime-main.f7f3dc29.js",
+    "runtime-main.js.map": "/org.listz/static/js/runtime-main.f7f3dc29.js.map",
+    "static/js/2.49e76d8e.chunk.js": "/org.listz/static/js/2.49e76d8e.chunk.js",
+    "static/js/2.49e76d8e.chunk.js.map": "/org.listz/static/js/2.49e76d8e.chunk.js.map",
+    "index.html": "/org.listz/index.html",
+    "precache-manifest.3a993ca9b42133e3dcf113b0c79b06ff.js": "/org.listz/precache-manifest.3a993ca9b42133e3dcf113b0c79b06ff.js",
+    "service-worker.js": "/org.listz/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/org.listz/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.49e76d8e.chunk.js.LICENSE.txt": "/org.listz/static/js/2.49e76d8e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7f3dc29.js",
+    "static/js/2.49e76d8e.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.78a34d07.chunk.js"
+  ]
+}
