@@ -1,0 +1,54 @@
+:root {
+    --mainbrand-color: rgb(29, 97, 143);
+    --secodary-color: black;
+
+    --main-bg-color:  rgba(228, 220, 215);
+    --main-line-color: rgba(41, 30, 45);
+    --main_text-color: rgba(40, 30, 45);
+    --navbar_text-color: rgb(104, 166, 150);
+  }
+  
+  .mainbackground-color {
+    background-color: var(--main-bg-color);
+  }
+
+
+  
+  .listz-page {
+    background-color: var(--main-bg-color);
+    color: red;
+  }
+
+  .navbartext-color  a{
+    color: var(--navbar_text-color) !important;
+  }
+
+  nav .navbar-nav li a{
+    color: var(--navbar_text-color) !important;
+  }
+  
+  .mainbrand-color {
+    background-color: var(--mainbrand-color);
+  }
+
+  .mainline-color {
+    background-color: var(--main-line-color);
+  }
+  
+  .textcolor_accent {
+    color: var(--main_text-color);
+  }
+
+  .textcolor_navbar {
+    color: var(--main_text-color);
+  }
+  
+
+  .textcolor_black {
+    color: black;
+  }
+
+  .page-div {
+    background-color: white;
+  }
+  

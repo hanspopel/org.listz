@@ -9,14 +9,14 @@ import PasswordForgetPage from '../PasswordForget';
 import HomePage from '../Home';
 import AccountPage from '../Account';
 import AdminPage from '../Admin';
-
+import ScrollToTop from '../../javascripts/ScrollToTop'
 import * as ROUTES from '../../constants/routes';
 
 const App = () => (
   <Router>
     <div>
       <Navigation />
-
+      <ScrollToTop />
       <hr />
 
       <Route exact path={ROUTES.LANDING} component={LandingPage} />

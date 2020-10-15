@@ -1,0 +1,34 @@
+{
+    "user_list":[
+{
+	"item_id": "listz",
+	"item_name": "listz",
+	"url": "",
+	"icon_source": "touchable_rainbow.png"
+},
+{
+	"item_id": "settings",
+	"item_name": "settings",
+	"url": "",
+	"icon_source": "touchable_rainbow.png"
+},
+{
+	"item_id": "downloads",
+	"item_name": "downloads",
+	"url": "",
+	"icon_source": "touchable_rainbow.png"
+},
+{
+	"item_id": "archive",
+	"item_name": "archive",
+	"url": "",
+	"icon_source": "touchable_rainbow.png"
+},
+{
+	"item_id": "forum",
+	"item_name": "forum",
+	"url": "",
+	"icon_source": "touchable_rainbow.png"
+}
+]
+}
