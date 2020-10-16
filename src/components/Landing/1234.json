@@ -1,0 +1,37 @@
+{
+    "": {
+        "0": "",
+        "4": "Party[b]\n",
+        "5": "",
+        "6": "Election\n",
+        "7": "Vice President\n"
+    },
+    "George Washington\n": {
+        "0": "George Washington\n",
+        "4": "\n",
+        "5": "Unaffiliated\n",
+        "6": "1788\u201389\n1792\n",
+        "7": "John Adams[c]\n"
+    },
+    "John Adams\n": {
+        "0": "John Adams\n",
+        "4": "\n",
+        "5": "Federalist\n",
+        "6": "1796",
+        "7": "Thomas Jefferson[d]\n"
+    },
+    "Thomas Jefferson\n": {
+        "0": "Thomas Jefferson\n",
+        "4": "\n",
+        "5": "Democratic-Republican\n",
+        "6": "1800\n1804\n",
+        "7": "Aaron Burr\nGeorge Clinton[e]\n\n\n"
+    },
+    "James Madison\n": {
+        "0": "James Madison\n",
+        "4": "\n",
+        "5": "Democratic-Republican\n",
+        "6": "1808\n1812\n",
+        "7": "George Clinton[e]\n\n\nVacant\u00a0afterApr. 20, 1812\nElbridge Gerry[e]\nVacant\u00a0afterNov. 23, 1814\n"
+    }
+}
