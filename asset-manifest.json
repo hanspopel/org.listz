@@ -1,13 +1,15 @@
 {
-  "main.css": "/org.listz/static/css/main.a0cd8f13.chunk.css",
-  "main.js": "/org.listz/static/js/main.af808d6d.chunk.js",
-  "main.js.map": "/org.listz/static/js/main.af808d6d.chunk.js.map",
-  "static/js/1.06031822.chunk.js": "/org.listz/static/js/1.06031822.chunk.js",
-  "static/js/1.06031822.chunk.js.map": "/org.listz/static/js/1.06031822.chunk.js.map",
+  "main.css": "/org.listz/static/css/main.872aa41d.chunk.css",
+  "main.js": "/org.listz/static/js/main.d0d6e923.chunk.js",
+  "main.js.map": "/org.listz/static/js/main.d0d6e923.chunk.js.map",
+  "static/css/1.d8a98f17.chunk.css": "/org.listz/static/css/1.d8a98f17.chunk.css",
+  "static/js/1.89561e69.chunk.js": "/org.listz/static/js/1.89561e69.chunk.js",
+  "static/js/1.89561e69.chunk.js.map": "/org.listz/static/js/1.89561e69.chunk.js.map",
   "runtime~main.js": "/org.listz/static/js/runtime~main.ff873dcf.js",
   "runtime~main.js.map": "/org.listz/static/js/runtime~main.ff873dcf.js.map",
-  "static/css/main.a0cd8f13.chunk.css.map": "/org.listz/static/css/main.a0cd8f13.chunk.css.map",
+  "static/css/main.872aa41d.chunk.css.map": "/org.listz/static/css/main.872aa41d.chunk.css.map",
+  "static/css/1.d8a98f17.chunk.css.map": "/org.listz/static/css/1.d8a98f17.chunk.css.map",
   "index.html": "/org.listz/index.html",
-  "precache-manifest.cba990630e1817c50170ba5f55f8ae99.js": "/org.listz/precache-manifest.cba990630e1817c50170ba5f55f8ae99.js",
+  "precache-manifest.b6abda1a8b94498922193a288323c9d9.js": "/org.listz/precache-manifest.b6abda1a8b94498922193a288323c9d9.js",
   "service-worker.js": "/org.listz/service-worker.js"
 }
